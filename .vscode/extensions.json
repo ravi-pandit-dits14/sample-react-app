@@ -1,0 +1,17 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "dbaeumer.vscode-eslint",
+        "firsttris.vscode-jest-runner",
+        "oouo-diogo-perdigao.docthis",
+        "formulahendry.code-runner",
+        "streetsidesoftware.code-spell-checker",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "christian-kohler.path-intellisense",
+        "formulahendry.auto-rename-tag",
+        "mariusalchimavicius.json-to-ts",
+        "pkief.material-icon-theme",
+        "akamud.vscode-theme-onedark"
+    ]
+}
